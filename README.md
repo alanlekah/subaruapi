@@ -13,8 +13,7 @@ I have this set up on AWS with an EC2 running as a remote API for IFTTT to trigg
 This example app shows how to run webpage testing using CasperJS with the Chrome plugin Resurrectio.
 
 ## Setup
-- npm install -g phantomjs
-- npm install -g casperjs
+- npm run preinstall
 
 ### Set the enviromental variables for your Subaru account and pin
 - USERNAME: subaru username
@@ -28,4 +27,4 @@ You can then run npm start or node app.js to start the application
 
 ### Endpoints
 
-The app has two endpoints currently, /unlock and /lock accordingly, both are GET methods.
+The app has two endpoints currently, /unlock and /lock accordingly, both are GET.
