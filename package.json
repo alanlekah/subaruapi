@@ -1,0 +1,12 @@
+{
+  "name": "subaru",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "main": "app.js",
+  "scripts": {
+    "preinstall": "npm i -g phantomjs-prebuilt -g casperjs",
+    "start": "node app.js"
+  }
+}
