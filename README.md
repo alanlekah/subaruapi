@@ -1,3 +1,5 @@
+# This repo is no longer maintained, please see the [V2 version using Selenium and Lambda](https://github.com/alanlekah/subaru-api-v2)
+
 # Subaru Remote Service API
 
 This express server application lets you remotely activate your cars features (if you've subscribed to the Remote services plus options).
